@@ -1,0 +1,1 @@
+This is a test project to get Audio IN throuh an INMP441 for my ChatBot project. The project is only stored for reference during development and the epository may be removed when the full project is working.
